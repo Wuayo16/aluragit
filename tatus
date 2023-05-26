@@ -1,0 +1,23 @@
+[33mcommit 561837cf1f745f3a4481674c617b2edaf8c4b833[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Eduardo Quintanilla <ernesto5nilla@hotmail.com>
+Date:   Fri May 26 10:40:51 2023 +0200
+
+    Modificando el titulo
+
+[33mcommit 9966310006a4efaf49a4b2ce29bf785aecefbef8[m[33m ([m[1;31mservidorlocal/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Eduardo Quintanilla <ernesto5nilla@hotmail.com>
+Date:   Thu May 25 11:42:41 2023 +0200
+
+    renombrando curso de integracion continua
+
+[33mcommit 5838d2ece451dfd173d12335019f755ff278731d[m
+Author: Eduardo Quintanilla <ernesto5nilla@hotmail.com>
+Date:   Wed May 24 11:30:03 2023 +0200
+
+    Agregando gitignore
+
+[33mcommit 8694fdc637085d29d103a73fe97e3b0476638963[m
+Author: Eduardo Quintanilla <ernesto5nilla@hotmail.com>
+Date:   Wed May 24 10:05:58 2023 +0200
+
+    Ceando archivo index.html con lista de curso
